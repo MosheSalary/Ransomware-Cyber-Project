@@ -27,7 +27,8 @@ namespace ransomware_cyberproj
                 if (close == 0)
                 {
                     e.Cancel = true; // Cancel the close operation
-                    MessageBox.Show("This window cannot be closed.");
+                    MessageBox.Show("Closing...");
+                    MessageBox.Show("hahahaha you thought");
                 }
             }
         }
