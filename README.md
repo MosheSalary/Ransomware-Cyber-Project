@@ -46,7 +46,7 @@ This project is intended solely for educational purposes and must not be used fo
 Contributions
 Contributions are not accepted for this project. It is a demonstration intended to raise awareness about ransomware without promoting malicious intent.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 Remember to replace `your-username` and `https://example.com/path/to/your/image.png` with your actual GitHub username and the URL where you've hosted your project's logo image.
