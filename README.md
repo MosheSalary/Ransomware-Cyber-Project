@@ -1,43 +1,47 @@
 # Ransomware Cyber Project
 
-A ransomware cyber project that demonstrates basic encryption and decryption processes using the AES algorithm.
+A ransomware simulation project that demonstrates basic encryption and decryption processes using the AES algorithm.
 
-## Introduction
+## Overview
 
-This project showcases a simple ransomware simulation to demonstrate how ransomware encrypts and decrypts files using the AES encryption algorithm. It consists of two main components: an encryption module and a decryption module. This project is for educational purposes only and is not intended for malicious use.
+This project provides a simple yet informative demonstration of ransomware functionality. It aims to illustrate the encryption and decryption procedures using the AES encryption algorithm. Please note that this project is purely educational and must not be utilized for malicious purposes.
 
 ## Features
 
-- Encryption of files in a specified root folder using AES encryption.
-- Decryption of encrypted files using the appropriate key and IV.
+- **Encryption:** Encrypts files within a specified root folder using the robust AES encryption algorithm.
+- **Decryption:** Decrypts previously encrypted files using the appropriate key and IV.
 
-## Installation and Usage
+## Getting Started
 
-1. Clone the repository:
+1. **Clone the Repository:**
 
-```bash
-git clone https://github.com/your-username/ransomware-cyberproj.git
-cd ransomware-cyberproj
-Open the solution in your preferred development environment (e.g., Visual Studio).
+   ```bash
+   git clone https://github.com/your-username/ransomware-cyberproj.git
+   cd ransomware-cyberproj
+Open and Build:
 
-Build and run the application.
+Open the solution in your preferred development environment (e.g., Visual Studio) and build the application.
 
-Run the encryption process by launching the application. If encryption hasn't been run before, the program will encrypt files within the specified root folder.
+Encryption Process:
 
-To simulate decryption, input valid transaction details in the UI (payment sender and recipient addresses) and click the "Check Payment" button.
+Run the application to initiate the encryption process. The program will encrypt files in the designated root folder.
 
-Technologies
+Decryption Simulation:
+
+Simulate decryption by providing valid transaction details in the UI (sender and recipient addresses) and clicking the "Check Payment" button.
+
+## Technologies
 C#
 .NET Framework
 AES Encryption Algorithm
 Windows Forms for UI
 Disclaimer
-This project is solely for educational purposes and should not be used for any malicious activities. The intent of this project is to showcase the basic principles of ransomware and how encryption and decryption work. Unauthorized use for actual ransomware attacks is illegal and unethical.
+This project is intended solely for educational purposes and must not be used for any malicious activities. Its primary purpose is to exemplify ransomware principles and illustrate the encryption and decryption workflows. Unauthorized use for actual ransomware attacks is illegal and unethical.
 
 Contributions
-Contributions are not accepted for this project. It is intended as a demonstration only and should not be modified or extended for malicious purposes.
+Contributions are not accepted for this project. It is a demonstration intended to raise awareness about ransomware without promoting malicious intent.
 
-License
+##License
 This project is licensed under the MIT License.
 
-Please replace placeholders like `your-username`, `project-logo.png`, and customize the content according to your project's specifics. Also, feel free to add or modify sections based on your project's features and requirements.
+Remember to replace `your-username` and `https://example.com/path/to/your/image.png` with your actual GitHub username and the URL where you've hosted your project's logo image.
