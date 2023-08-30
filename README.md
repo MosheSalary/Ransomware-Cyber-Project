@@ -31,10 +31,15 @@ Decryption Simulation:
 Simulate decryption by providing valid transaction details in the UI (sender and recipient addresses) and clicking the "Check Payment" button.
 
 ## Technologies
+
 C#
+
 .NET Framework
+
 AES Encryption Algorithm
+
 Windows Forms for UI
+
 Disclaimer
 This project is intended solely for educational purposes and must not be used for any malicious activities. Its primary purpose is to exemplify ransomware principles and illustrate the encryption and decryption workflows. Unauthorized use for actual ransomware attacks is illegal and unethical.
 
