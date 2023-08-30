@@ -1,7 +1,6 @@
-# project
 # Ransomware Cyber Project
 
-![Project Logo](project-logo.png) <!-- Replace with your project's logo or relevant image -->
+![Project Logo](file:///C:/Users/Salary/Pictures/cyber%20project.png) <!-- Replace with your project's logo or relevant image -->
 
 A ransomware cyber project that demonstrates basic encryption and decryption processes using the AES algorithm.
 
