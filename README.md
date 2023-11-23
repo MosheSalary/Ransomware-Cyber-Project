@@ -48,5 +48,3 @@ Contributions are not accepted for this project. It is a demonstration intended 
 
 ## License
 This project is licensed under the MIT License.
-
-Remember to replace `your-username` and `https://example.com/path/to/your/image.png` with your actual GitHub username and the URL where you've hosted your project's logo image.
